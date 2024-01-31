@@ -1,0 +1,69 @@
+--------Header section --------------
+# Menus
+Projects
+Technologies
+About me
+
+--------banner section--------------
+# heading
+Hello, I'm Iaroslav, 
+frontend developer
+## sub heading
+Former digital-marketing specialist, seeking to apply competent development skills with focus on collaboration, communication, and passion
+
+
+--------Projects--------------
+-> Project 1
+# heading
+Furniture store landing page
+# sub heading
+Responsive HTML/CSS layout for online furniture store. HTML5, CSS3 (SCSS)
+
+-> Project 2
+# heading
+Designer furniture store landing page
+# sub heading
+Responsive HTML/CSS layout for online store of designer furniture. HTML5, CSS3 (SCSS)
+
+-> Project 3
+# heading
+Landing page for front-end developer
+# sub heading
+Responsive HTML/CSS layout for landing page for front-end developer. HTML5, CSS3 (SCSS)
+
+-> Project 4
+# heading
+Website redesign for The Venus project
+# sub heading
+Responsive HTML/CSS layout for The Venus project. HTML5, CSS3 (SCSS)
+
+--------Technologies--------------
+-> Lists of items
+Html
+CSS, Sass & Bootstrap
+JavaScript, TypeScript, JQuery
+UI design in Figma
+Angular
+React
+React Native
+
+--------Additional technologies and skills--------------
+-> Lists of items
+Git
+Wordpress
+Teamwork
+Quick learning
+Engagement
+B2 english
+RWD
+
+--------About me--------------
+2011
+Graduated KTC (Krasnodar Technical College) and for about two years worked with high voltage (35, 110kV) substations as the specialty electrician of emergency mobile crew.
+Later qualified as a Crossfit trainer.
+2016
+Underwent a digital marketing course and started to work as a PPC and project manager in a local web studio. After 3 months started my own freelance practice.
+2021
+Became more interested in IT and decided to try programming. Underwent Java course and made a project.
+2022
+Worked out in which field I want to build a developer's career and started to learn Frontend Development.
