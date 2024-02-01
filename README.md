@@ -31,7 +31,7 @@ Follow these instructions to set up and run the project on your local machine.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-portfolio.git
+   git clone [https://github.com/your-username/your-portfolio.git](https://github.com/Jaber-Saed/simple-portfolio.git)
 
 2. Change to the project directory:
 
